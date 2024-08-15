@@ -1,1 +1,1 @@
-This project is a recipe website where I will demonstrate my HTML and CSS skills to display different recipes
+In this project, I built a basic recipe website, which consists of a main index page which will have links to a few recipes. This project demonstrates my knowledge of HTML and CSS.
